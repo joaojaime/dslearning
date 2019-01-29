@@ -9,7 +9,7 @@ Just a notebook to help me learn a little more about python and some libraries
 
 Need to install Anaconda and Jupyter Notebook
 
-Then import the rquirements file
+Then import the requirements file
 
 ## Built With
 
@@ -18,6 +18,7 @@ Then import the rquirements file
 
 ## Authors
 
+João Jaime - joaojaime14@gmail.com
 Valter Caldeira – [@CaldeiraValter](https://twitter.com/CaldeiraValter) – valterjpcaldeira.developer@gmail.com
 
 ## License
