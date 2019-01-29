@@ -1,7 +1,7 @@
 # DS Learning  [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) 
-> Football Dataset Playground
+> Brazilian E-Commerce Customer Reviews Analysis
 
-[Link to Kaggle Dataset](https://www.google.com)
+[Link to Kaggle Dataset](https://www.kaggle.com/krnilo/customer-reviews-analysis-brazilian-e-commerce)
 
 Just a notebook to help me learn a little more about python and some libraries
 
