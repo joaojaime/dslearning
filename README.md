@@ -19,6 +19,7 @@ Then import the requirements file
 ## Authors
 
 João Jaime - joaojaime14@gmail.com
+
 Valter Caldeira – [@CaldeiraValter](https://twitter.com/CaldeiraValter) – valterjpcaldeira.developer@gmail.com
 
 ## License
